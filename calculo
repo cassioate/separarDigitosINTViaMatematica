@@ -1,0 +1,19 @@
+num = 123
+
+digito = num % 10 = 3
+num = num / 10 = 12
+
+num agora é 12
+
+digito = num % 10 = 2
+num = num / 10 = 1
+
+num agora é 1
+
+digito = num % 10 = 1
+num = num / 10 = 0
+
+
+
+como se trata de um numero INT a divisão de 1 / 10 por exemplo não retornara 0,1 e sim 0 pois apenas o 0 é inteiro.
+
